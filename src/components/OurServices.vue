@@ -65,7 +65,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 .our-services {
-  padding: 90px 0;
+  padding: 85px 0;
 }
 .card {
   cursor: pointer;

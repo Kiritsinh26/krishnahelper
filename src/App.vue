@@ -24,7 +24,8 @@
     color: #0e3e62;
     font-weight: 600;
     padding: 0;
-    margin: 0 0 30px 0;
+    margin: 0 0 25px 0;
+    text-transform: uppercase;
   }
   span {
     font-size: 16px;

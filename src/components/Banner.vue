@@ -70,7 +70,7 @@ export default {
       margin: 10px 0 0;
     }
     .search-bar {
-      width: 30%;
+      width: 42%;
     }
     .search-city {
       background: #ffffff url("../assets/images/map.png") no-repeat left 20px
